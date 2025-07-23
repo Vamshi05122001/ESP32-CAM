@@ -1,0 +1,11 @@
+{
+    "temperature": "20",
+    "humidity": "96",
+    "soil_moisture": "50",
+    "air_pollution": "20",
+    "light_intensity": "20",
+    "motor_status": "1",
+    "force_set_status": "1",
+    "camera_light_intensity": "50",
+    "take_photo": "1"
+}
